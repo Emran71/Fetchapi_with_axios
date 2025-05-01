@@ -38,4 +38,3 @@ This is a simple web project that fetches and displays post data from a fake API
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/fake-api-posts-viewer.git
-   cd fake-api-posts-viewer
